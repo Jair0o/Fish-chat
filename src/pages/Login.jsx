@@ -31,7 +31,7 @@ const Login = () => {
                 {err && <span>Something messed up :3</span>}
             </form>
             <p>Not with Fish Chat? <Link to="/register">Register</Link></p>
-         </div>
+         </div>  
     </div>
   );
 };

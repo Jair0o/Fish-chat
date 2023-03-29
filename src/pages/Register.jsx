@@ -75,7 +75,7 @@ const Register = () => {
                 {err && <span>Something messed up :3</span>}
             </form>
             <p>
-              Already with Fish Chat? <Link to="/register">Login</Link>
+              Already with Fish Chat? <Link to="/login">Login</Link>
               </p>
          </div>
     </div>
